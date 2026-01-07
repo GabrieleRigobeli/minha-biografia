@@ -11,7 +11,7 @@ Apresentar minhas experiências, formação acadêmica e competências técnicas
 * **Git & GitHub**: Versionamento de código e deploy.
 
 ## Visualização
-Você pode acessar o site através do link disponibilizado abaixo:
+Você pode acessar o site através do link disponibilizado a seguir:
 [(https://gabrielerigobeli.github.io/minha-biografia/)]
 
 ---
