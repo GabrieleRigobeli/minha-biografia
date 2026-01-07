@@ -12,7 +12,7 @@ Apresentar minhas experiências, formação acadêmica e competências técnicas
 
 ## Visualização
 Você pode acessar o site através do link disponibilizado abaixo:
-[COLE AQUI O LINK QUE VOCÊ GEROU NO GITHUB PAGES]
+[(https://gabrielerigobeli.github.io/minha-biografia/)]
 
 ---
 Desenvolvido com 💙 por Gabriele Rigobeli da Silva.
